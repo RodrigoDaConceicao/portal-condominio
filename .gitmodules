@@ -1,6 +1,0 @@
-[submodule "portal-condominio-api"]
-	path = portal-condominio-api
-	url = git@github.com:RodrigoDaConceicao/portal-condominio/portal-condominio-api.git
-[submodule "portal-condominio-web"]
-	path = portal-condominio-web
-	url = git@github.com:RodrigoDaConceicao/portal-condominio/portal-condominio-web.git
